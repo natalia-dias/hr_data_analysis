@@ -1,4 +1,4 @@
-# hr_data_analysis
+# data_analysis
 HR DATA ANALYSIS is a project in track Introduction to Data Science (https://hyperskill.org/tracks/28) and Pandas for Data Analysis (https://hyperskill.org/tracks/44)
 This track lays a strong foundation for advancing in the data science field.
 
